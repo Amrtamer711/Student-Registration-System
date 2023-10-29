@@ -6,5 +6,9 @@ This student registration system deals with all registration related tasks any u
   <img src="https://github.com/Amrtamer711/Student-Registration-System/assets/131773782/70c590a8-643a-41f3-862b-153a995d1330" alt="Description of Image">
 </p>
 <p align="center"><strong>Main Login Screen</strong></p>
+<p align="left">
+  <img src="https://github.com/Amrtamer711/Student-Registration-System/assets/131773782/a9b8c6d7-d7f0-4f6b-8183-92ebc8bcb5ca" alt="Description of Image">
+</p>
+<p align="left"><strong>Main Login Screen</strong></p>
 
 
