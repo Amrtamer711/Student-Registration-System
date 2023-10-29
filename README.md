@@ -5,6 +5,6 @@ This student registration system deals with all registration related tasks any u
 <p align="center">
   <img src=
 </p>
-![image](https://github.com/Amrtamer711/Student-Registration-System/assets/131773782/9d4df325-5275-4fcf-92bd-4c7da8cf428b)
+![image](https://github.com/Amrtamer711/Student-Registration-System/assets/131773782/70c590a8-643a-41f3-862b-153a995d1330)
 <p align="center"></p>
 
