@@ -9,6 +9,10 @@ This student registration system deals with all registration related tasks any u
 <p align="left">
   <img src="https://github.com/Amrtamer711/Student-Registration-System/assets/131773782/a9b8c6d7-d7f0-4f6b-8183-92ebc8bcb5ca" alt="Description of Image" width=500 height=500>
 </p>
-<p align="left"><strong>Main Login Screen</strong></p>
+<p align="left"><strong>Admin Frame</strong></p>
+<p align="right">
+  <img src="https://github.com/Amrtamer711/Student-Registration-System/assets/131773782/ffd255a7-e5cf-4fe2-9bd5-3b06a2f31ad5" alt="Description of Image" width=500 height=500>
+</p>
+<p align="right"><strong>Student Frame</strong></p>
 
 
