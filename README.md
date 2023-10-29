@@ -4,4 +4,7 @@ This student registration system deals with all registration related tasks any u
 # Examples:
 ![image](https://github.com/Amrtamer711/Student-Registration-System/assets/131773782/70c590a8-643a-41f3-862b-153a995d1330)
 <p align="center"><strong>Main Login Screen</strong></p>
+<p align="center">
+  <img src="https://github.com/Amrtamer711/Student-Registration-System/assets/131773782/70c590a8-643a-41f3-862b-153a995d1330" alt="Description of Image">
+</p>
 
